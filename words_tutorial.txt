@@ -1,0 +1,10 @@
+one iron,cd,sand
+two v,a,door
+three clover,squ,triface,fly,fly
+four bullet,door,back,anemone
+five fly,squ,v,sand
+six anemone,banner,a
+seven clover,rectface,mag,rectface,para
+eight fly,banner,bullet,squ,clover
+time clover,banner,cd,fly
+mirror door,wifi,v,v,triface,v

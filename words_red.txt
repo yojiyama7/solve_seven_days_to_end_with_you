@@ -1,0 +1,30 @@
+flame fly,xrect,flag,wifi,sand
+name wifi,a,xrect,three
+again a,fly,a,bullet,wifi
+meat wifi,sand,flag,anemone
+# day wani,a,mag
+# chair wani,bullet,flag,squ,grave
+death three,sand,flag,anemone,bullet
+one iron,cd,sand
+two v,a,door
+three clover,squ,triface,fly,fly
+# four bullet,door,back,anemone
+
+## three,chicken +1 問題
+# yellow three,squ,para,para,triface,chicken
+# ydkknw(BLUE)
+# zellox(BLUE)
+# memory door,squ,door,triface,v,three
+# memorz(BLUE)
+
+## revface
+# war revface,flag,grave
+# clothes fly,iron,grave,revface,slash,bullet,v
+# cloxhes(BLUE)
+# love wifi,para,revface,fly
+
+# ? fly,wani,mag,chicken
+# ifae(BLUE)
+# ? slash,bullet,sand,three
+# ifcb(BLUE)
+# ? wani,para,sand,flag

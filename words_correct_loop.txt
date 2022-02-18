@@ -1,0 +1,166 @@
+### BLUE
+one iron,cd,sand
+two v,a,door
+three clover,squ,triface,fly,fly
+four bullet,door,back,anemone
+five fly,squ,v,sand
+six anemone,banner,a
+seven clover,rectface,mag,rectface,para
+eight fly,banner,bullet,squ,clover
+# many なんかあやしい
+many cd,chicken,iron,flag
+first squ,xrect,clover,v,back
+next para,rectface,flag,v
+last wifi,chicken,anemone,clover
+tool v,door,door,cd
+together a,anemone,xrect,banner,a,wifi,banner,back
+material para,three,back,bullet,clover,xrect,three,iron
+container bullet,anemone,triface,a,fly,cd,triface,banner,back
+time clover,banner,cd,fly
+liquor para,wifi,clover,a,triface,v
+cooking fly,grave,grave,cd,xrect,door,banner
+mirror door,wifi,v,v,triface,v
+photo triface,slash,grave,back,grave
+book chicken,iron,iron,slash
+forget bullet,door,anemone,squ,rectface,v
+want a,wani,para,v
+remember clover,bullet,para,bullet,para,sand,bullet,clover
+think v,banner,slash,para,wifi
+ok triface,iron
+ok cd,banner
+but chicken,clover,anemone
+no wifi,cd
+danger sand,chicken,iron,bullet,fly,triface
+warm mag,chicken,triface,cd
+plant grave,cd,wani,para,v
+flower squ,iron,grave,flag,bullet,clover
+punish anemone,a,grave,wifi,back,xrect
+give rectface,squ,v,sand
+red door,three,wani
+blue chicken,xrect,clover,sand 
+green bullet,triface,fly,fly,iron
+food fly,iron,iron,three
+drink sand,triface,banner,iron,xrect
+see a,slash,slash
+this clover,squ,banner,anemone
+some anemone,para,cd,fly
+water a,wani,v,rectface,anemone
+month iron,door,para,v,banner
+human squ,v,cd,chicken,iron
+blood wani,wifi,para,para,sand
+bone chicken,iron,cd,sand
+alone chicken,wifi,para,iron,fly
+word a,door,anemone,fly
+means cd,fly,chicken,iron,anemone
+record anemone,rectface,sand,door,anemone,fly
+temple v,rectface,iron,grave,cd,rectface
+now iron,para,mag
+morning door,triface,v,grave,wifi,grave,slash
+evening bullet,a,bullet,door,xrect,door,banner
+night iron,banner,bullet,squ,clover
+do chicken,wifi
+research clover,bullet,v,bullet,three,clover,fly,slash
+failure bullet,wani,slash,cd,revface,anemone,rectface
+success back,a,rectface,rectface,squ,back,back
+perfect triface,bullet,clover,squ,bullet,fly,back
+tell clover,fly,wifi,wifi
+protect clover,back,anemone,a,banner,bullet,a
+disap sand,banner,anemone,chicken,door
+go fly,cd
+touch v,door,revface,sand,banner
+look wifi,para,para,xrect
+meet wifi,sand,sand,anemone
+start v,revface,three,clover,revface
+# wood v,revface,three,clover,revface
+hide v,back,grave,triface
+stop v,back,grave,triface
+hope bullet,iron,para,sand
+wait mag,chicken,banner,clover
+compare sand,door,iron,grave,wani,anemone,rectface
+sleep anemone,wifi,fly,fly,door
+goodnight xrect,anemone,anemone,squ,triface,cd,xrect,wifi,a
+thanks back,slash,three,door,cd,v
+hello squ,fly,wifi,wifi,para
+small anemone,cd,chicken,wifi,wifi
+usual mag,v,mag,three,iron
+body wani,para,sand,flag
+life slash,bullet,sand,three
+# yes 
+
+### note
+# aは次の文字になりがち
+# flag, #, chicken, wani, three この辺がおかしい気がする
+# chicken +1 = wani が気になる 
+# "y"が"z"になりがち(逆かも)
+## war VS cooking
+
+### RED: this is not included BLUE
+## 本来 "a" であるべき文字が "z" になっている
+## flag,a に該当する文字である
+## a,flag -1 問題
+# flame fly,xrect,flag,wifi,sand
+# flzme(BLUE)
+# name wifi,a,xrect,three
+# nzme(BLUE)
+# again a,fly,a,bullet,wifi
+# zgzin(BLUE)
+# meat wifi,sand,flag,anemone
+# mezt(BLUE)
+# day wani,a,mag
+# dzy(BLUE)
+# chair wani,bullet,flag,squ,grave
+# chzir(BLUE)
+# death three,sand,flag,anemone,bullet
+# dezth(BLUE)
+# war revface,flag,grave
+# revface+4問題も重複
+# azr(BLUE)
+# break chicken,grave,sand,flag,slash
+# brezk(BLUE)
+# head fly,wani,mag,chicken
+# hezd(BLUE)
+
+## chicken,wani,three,sand +1 問題
+# yellow three,squ,para,para,triface,chicken
+# ydkknw(BLUE)
+# zellox(BLUE)
+# memory door,squ,door,triface,v,three
+# memorz(BLUE)
+# alchemy wani,cd,sand,banner,rectface,iron,chicken
+# alchemz(BLUE)
+# today v,door,fly,wani,chicken
+# todaz(BLUE)
+# understan chicken,anemone,banner,slash,mag,a,flag,rectface,anemone
+# vnderstan(BLUE)
+# sorry mag,anemone,back,back,sand
+# sorrz(BLUE)
+# happy banner,wani,grave,grave,chicken
+# happz(BLUE)
+# lonely iron,grave,door,bullet,iron,wani
+# lonelz(BLUE)
+# restraint
+# qdrtqzhmt(BLUE)
+# resurainu
+
+## revface
+## +4 されてしまう問題
+# war revface,flag,grave
+# clothes fly,iron,grave,revface,slash,bullet,v
+# cloxhes(BLUE)
+# love wifi,para,revface,fly
+# house banner,door,revface,clover,rectface
+# hoyse(BLUE)
+
+## ???
+# tomorrow wani,back,clover,back,flag,flag,back,fly
+# tnlnqqnw(BLUE)
+# uomorrox(BLUE)
+# wani, fly が +1 ?
+# ? fly,wani,mag,chicken
+# ifae(BLUE)
+# ? slash,bullet,sand,three
+# ifcb(BLUE)
+# ? wani,para,sand,flag
+# big a,rectface,sand
+# aig(BLUE)
+# bjh(BLUE)

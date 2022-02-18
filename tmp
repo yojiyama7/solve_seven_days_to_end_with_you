@@ -1,0 +1,299 @@
+a:
+  chicken: 10
+  fly: 1
+  three: 6
+  wani: 5
+b:
+  chicken: 4
+  sand: 1
+  wani: 2
+c:
+  bullet: 2
+  fly: 3
+  rectface: 2
+  sand: 3
+d:
+  chicken: 1
+  fly: 2
+  grave: 1
+  sand: 5
+  squ: 1
+  three: 1
+  wani: 1
+e:
+  banner: 4
+  bullet: 11
+  fly: 14
+  rectface: 10
+  sand: 8
+  slash: 2
+  squ: 1
+  three: 2
+  triface: 1
+f:
+  bullet: 3
+  fly: 2
+  sand: 1
+  squ: 3
+g:
+  banner: 2
+  bullet: 4
+  fly: 1
+  rectface: 1
+  slash: 1
+  squ: 1
+  xrect: 3
+h:
+  banner: 3
+  bullet: 1
+  slash: 3
+  squ: 6
+  v: 1
+  wifi: 2
+  xrect: 1
+i:
+  back: 1
+  banner: 8
+  bullet: 1
+  cd: 2
+  slash: 2
+  squ: 2
+  wifi: 4
+  xrect: 4
+k:
+  banner: 1
+  cd: 2
+  iron: 1
+  slash: 1
+  wifi: 1
+  xrect: 2
+l:
+  cd: 4
+  iron: 3
+  para: 1
+  slash: 1
+  wifi: 11
+  xrect: 1
+m:
+  cd: 7
+  door: 2
+  iron: 3
+  para: 3
+  wifi: 1
+n:
+  cd: 2
+  door: 4
+  grave: 3
+  iron: 9
+  para: 6
+  triface: 3
+  wifi: 1
+o:
+  anemone: 5
+  cd: 3
+  door: 10
+  grave: 6
+  iron: 7
+  para: 9
+  triface: 4
+  wifi: 1
+p:
+  anemone: 1
+  clover: 1
+  door: 2
+  grave: 3
+  para: 1
+  triface: 3
+q:
+  clover: 1
+r:
+  anemone: 8
+  back: 3
+  clover: 9
+  door: 1
+  triface: 5
+  v: 5
+s:
+  a: 1
+  anemone: 8
+  back: 4
+  clover: 1
+  v: 6
+t:
+  a: 6
+  anemone: 2
+  back: 6
+  clover: 8
+  revface: 2
+  v: 11
+u:
+  a: 3
+  back: 1
+  clover: 2
+  mag: 2
+  revface: 2
+  v: 1
+v:
+  a: 1
+  mag: 1
+  v: 2
+w:
+  a: 4
+  flag: 1
+  mag: 3
+x:
+  a: 1
+  flag: 1
+y:
+  flag: 2
+==========
+a:
+  s: 1
+  t: 6
+  u: 3
+  v: 1
+  w: 4
+  x: 1
+anemone:
+  o: 5
+  p: 1
+  r: 8
+  s: 8
+  t: 2
+back:
+  i: 1
+  r: 3
+  s: 4
+  t: 6
+  u: 1
+banner:
+  e: 4
+  g: 2
+  h: 3
+  i: 8
+  k: 1
+bullet:
+  c: 2
+  e: 11
+  f: 3
+  g: 4
+  h: 1
+  i: 1
+cd:
+  i: 2
+  k: 2
+  l: 4
+  m: 7
+  n: 2
+  o: 3
+chicken:
+  a: 10
+  b: 4
+  d: 1
+clover:
+  p: 1
+  q: 1
+  r: 9
+  s: 1
+  t: 8
+  u: 2
+door:
+  m: 2
+  n: 4
+  o: 10
+  p: 2
+  r: 1
+flag:
+  w: 1
+  x: 1
+  y: 2
+fly:
+  a: 1
+  c: 3
+  d: 2
+  e: 14
+  f: 2
+  g: 1
+grave:
+  d: 1
+  n: 3
+  o: 6
+  p: 3
+iron:
+  k: 1
+  l: 3
+  m: 3
+  n: 9
+  o: 7
+mag:
+  u: 2
+  v: 1
+  w: 3
+para:
+  l: 1
+  m: 3
+  n: 6
+  o: 9
+  p: 1
+rectface:
+  c: 2
+  e: 10
+  g: 1
+revface:
+  t: 2
+  u: 2
+sand:
+  b: 1
+  c: 3
+  d: 5
+  e: 8
+  f: 1
+slash:
+  e: 2
+  g: 1
+  h: 3
+  i: 2
+  k: 1
+  l: 1
+squ:
+  d: 1
+  e: 1
+  f: 3
+  g: 1
+  h: 6
+  i: 2
+three:
+  a: 6
+  d: 1
+  e: 2
+triface:
+  e: 1
+  n: 3
+  o: 4
+  p: 3
+  r: 5
+v:
+  h: 1
+  r: 5
+  s: 6
+  t: 11
+  u: 1
+  v: 2
+wani:
+  a: 5
+  b: 2
+  d: 1
+wifi:
+  h: 2
+  i: 4
+  k: 1
+  l: 11
+  m: 1
+  n: 1
+  o: 1
+xrect:
+  g: 3
+  h: 1
+  i: 4
+  k: 2
+  l: 1

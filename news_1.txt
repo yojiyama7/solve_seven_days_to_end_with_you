@@ -1,0 +1,3 @@
+three,wani,v,v,cd,rectface
+iron,para,iron,bullet
+anemone,bullet,sand
