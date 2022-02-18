@@ -51,5 +51,6 @@ def check_words_file(file_name):
             print("f{eng_word}")
             print(*patterns, sep='\n')
 
-io_suggest_eng_26pattern_with_table()
+if __name__ == "__main__":
+    io_suggest_eng_26pattern_with_table()
 # check_words_file(WORDS_FILE_NAME)
